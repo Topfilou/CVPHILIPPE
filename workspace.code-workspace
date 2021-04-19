@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ECF"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PORTFOLIO"
+	}
+}

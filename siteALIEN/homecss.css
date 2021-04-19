@@ -1,0 +1,27 @@
+body {
+    background-image: url("crane1.jpg");
+    background-size: cover;
+       
+}
+
+
+ul {
+    margin-top: 15%;
+    text-align: center; color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    text-shadow: 3px 3px black
+}
+p {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: blue;
+    font-size: 30px;
+    text-shadow: 5x 5px 5px black;
+    
+}
+
+div {
+    padding: 50px, 25px;
+}

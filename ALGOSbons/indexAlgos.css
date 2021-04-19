@@ -1,0 +1,53 @@
+body {
+    background-image: url("image\ math.jpeg");
+    background-size: cover;
+    text-align: center;
+    font-family:cursive ;
+}
+
+.titre {
+  text-decoration-line: underline;
+  text-decoration-color: red;
+}
+
+.soutitre {
+  padding-top: 100px;
+}
+
+hr {
+  color: #FF0000;
+  height: 1.4px;
+  background-color: red;
+
+}
+li {
+  color: blue;
+}
+
+.page {
+  background-image: url("cahier3.png"); 
+  border: none;
+  border-radius: 15px;
+  color: blue;
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  box-shadow: 0px 22px 60px 0 black;
+}
+
+.liens {
+  column-count: 2;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  
+  }
+
+  #B {
+    padding-top: 1px;
+  }

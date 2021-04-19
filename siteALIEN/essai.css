@@ -1,0 +1,13 @@
+body {
+    background-image: url("./scary.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.barrenav {
+    text-align: center;
+}
+#imagemilieu {
+    
+    text-align: center;
+    margin-top: 50px;
+}

@@ -1,0 +1,52 @@
+body {
+    width: 1045;
+    height: 653;
+    text-align: center;
+    font-size: 8mm;
+
+}
+
+.h1 {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: yellow;
+    text-shadow: 10px 10px 20px black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+#morpion {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-size: 40mm ;
+    background-image: linear-gradient( ivory,rgb(48, 47, 36));
+    margin-top: 2mm;
+    border-style: none;
+    box-shadow: 10px 10px 20px black;
+    
+}
+
+hr{ 
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+
+#reset {
+    background-color: #4CAF50; 
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 10px 10px 20px black ;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+} 
+
+

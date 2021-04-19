@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(95, 160, 122);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page {
+  background-color: #5d5668; 
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 25px 100px 25px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  box-shadow: 0px 22px 60px 0 black;
+}
+
+#champ1, #champ2, #cacher, #entree, #rejouer, a {
+  background-color: #726ea7; 
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.4s;
+  }
+
+#reponse {
+  margin-top: 30px;
+  background-color: #55318f; 
+  border: none;
+  border-radius: 5px;
+  color: rgb(83, 228, 39);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+
+#champ1:hover {
+  box-shadow: 0px 22px 60px 0 black;
+  } 
+
+#entree:hover {
+  box-shadow: 0px 22px 60px 0 black; 
+  } 
+
+  #champ2:hover {
+    box-shadow: 0px 22px 60px 0 black;
+    } 
+  
+  #cacher:hover {
+    box-shadow: 0px 22px 60px 0 black; 
+    } 
+
+
+#rejouer:hover {
+  box-shadow: 0px 22px 60px 0 black;  
+  }
+
+a:hover {
+    box-shadow: 0px 22px 60px 0 black;  
+    }

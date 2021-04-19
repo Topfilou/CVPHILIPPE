@@ -1,0 +1,95 @@
+Body {
+    background-image: url("math3d.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page {
+  background-color: rgb(54, 39, 95); 
+  border: none;
+  opacity: 0.9;
+  border-radius: 15px;
+  color: rgb(195, 236, 147);
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  box-shadow: 0px 22px 60px 0 black;
+}
+
+#AB, #AC {
+  background-color: #9edcb2; 
+  border: none;
+  border-radius: 5px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  
+  }
+
+
+#entree, #rafraichir {
+  background-color: #264f42; 
+  border: none;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.4s;
+  }
+
+  a {
+    background-color: #264f42; 
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.2s;
+    transition-duration: 0.4s;
+    }
+
+
+#rep {
+  margin-top: 30px;
+  background-color: #366960; 
+  border: none;
+  border-radius: 5px;
+  color: rgb(83, 228, 39);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+
+
+#entree:hover {
+  box-shadow: 0px 22px 60px 0 black; 
+  } 
+
+#rafraichir:hover {
+  box-shadow: 0px 22px 60px 0 black;  
+  }
+
+a:hover {
+  box-shadow: 0px 22px 60px 0 black;  
+  }
